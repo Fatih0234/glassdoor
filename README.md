@@ -6,11 +6,12 @@
 <p align="left">
 
 
-- Hey there, in this project I am scrapping glassdor data scientist/ML engineer/Data Analyst job posts(glassdoor_scrapping.py).<br>
+Hey there, in this project I am scrapping glassdor data scientist/ML engineer/Data Analyst job posts(glassdoor_scrapping.py).<br>
 
-- Afterwards, I am cleaning and feature engineering(glassdoor_cleaning.ipynb).<br>
+Afterwards, I am cleaning and feature engineering(glassdoor_cleaning.ipynb).<br>
 
-- Lastly, I am doing and EDA asking different questions and going after them by tweaking the data through visualisations.<br>
+Lastly, I am doing and EDA asking different questions and going after them by tweaking the data through visualisations.<br>
+
 </p>
 
 - 🌱 I’m currently learning **ML Algorithms.**
